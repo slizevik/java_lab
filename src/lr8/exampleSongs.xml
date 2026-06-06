@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><songs>
+        
+    <song>
+                
+        <title>Лесник</title>
+                
+        <artist>Король и Шут</artist>
+                
+        <year>1997</year>
+            
+    </song>
+        
+    <song>
+                
+        <title>Прогулки по воде</title>
+                
+        <artist>Наутилус Помпилиус</artist>
+                
+        <year>1985</year>
+            
+    </song>
+    
+    <book>
+        <title>Город</title>
+        <author>БГ</author>
+        <year>1990</year>
+    </book>
+</songs>
